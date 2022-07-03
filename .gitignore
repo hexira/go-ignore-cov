@@ -1,2 +1,5 @@
 coverage.out
 go-ignore-cov
+
+.vscode
+.idea
